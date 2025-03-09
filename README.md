@@ -1,72 +1,24 @@
-## Hi there 👋,
+# 💫 About Me:
+🚀 I’m currently working on<br>Exploring Rust and WebAssembly (WASM) to build high-performance web applications and optimize computational-heavy tasks for the browser.<br><br>🤝 I’m looking to collaborate on<br>Projects that involve Rust, WASM, and performance-focused web development. Also interested in hackathons and open-source contributions in these areas.<br><br>🛠️ I’m looking for help with<br>Advanced memory management in Rust, optimizing WebAssembly modules, and integrating Rust-based WASM with modern frontend frameworks like React and Svelte.<br><br>🌱 I’m currently learning<br>The Rust ecosystem, WebAssembly internals, and how to leverage WASM for high-speed execution in web applications. Also diving deeper into low-level system programming.<br><br>💬 Ask me about<br>Rust basics, WebAssembly performance optimizations, competitive programming, and full-stack web development.<br><br>⚡ Fun fact<br>I enjoy breaking things just to figure out how to fix them better. Also, WebAssembly still feels like magic to me, but I’m getting there!
 
-### I'm Nivesh, a passionate developer and problem solver.
 
--------
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nivesh Kumar ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Coderactive) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumarnivesh964@gmail.com) 
 
-## 🧐 About
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nivesh12345&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nivesh12345&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivesh12345&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I am a dedicated GitHub user who joined the platform on November 27, 2021, with a commitment to personal projects and sharing my work with others.
-- 🌱 My programming journey has involved diverse languages, including Rust, C++, HTML, JavaScript, Python, and TypeScript. I enjoy exploring and working with different technologies.
-- 😄 I have a strong engagement with the programming community and have actively contributed to my projects with a total of 27 commits since account creation. This reflects my commitment to maintaining and improving my codebases.
-- 🛠️ I enjoy solving coding problems using Rust and have dedicated a repository called "cses-rust" towards that purpose. This reflects my interest in competitive programming and practicing algorithms to enhance my problem-solving skills.
-- 💻 I also have a custom-built C++ implementation of the Unix Word Count tool, named "wc-clone-". This project highlights my inclination towards systems-level programming and demonstrates my ability to work on low-level projects.
-- 🚀 I am always open to collaboration and enjoy helping beginners contribute to open-source projects. Feel free to reach out if you have any questions or if you're looking for a collaborator for your project.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
--------
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Nivesh12345&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 📊 GitHub Stats
+---
+[![](https://visitcount.itsvg.in/api?id=Nivesh12345&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Nivesh12345)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nivesh12345)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nivesh12345)](https://github.com/Nivesh12345)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nivesh12345)](https://git.io/streak-stats)
-
--------
-
-## 💼 Skills
-
-- Programming Languages: Rust, C++, HTML, JavaScript, Python, TypeScript, CSS
-- Problem Solving
-- Algorithm Design
-- Systems-Level Programming
-- Web Development
-
--------
-
-## 🌟 Featured Projects
-
-### 1. cses-rust
-Repository Link: [cses-rust](https://github.com/Nivesh12345/cses-rust)
-
-Description: A repository focused on solving coding problems daily using Rust. I utilize this project to enhance my problem-solving skills and explore the vast Rust ecosystem.
-
-### 2. wc-clone-
-Repository Link: [wc-clone-](https://github.com/Nivesh12345/wc-clone-)
-
-Description: Custom-built C++ implementation of the Unix Word Count tool. This project showcases my ability to work on low-level projects and demonstrates my skills in systems-level programming.
-
--------
-
-## 📞 Contact
-
-Feel free to reach out to me for any opportunities, collaborations, or questions:
-
-- Email: [nivesh@example.com](mailto:nivesh@example.com)
-- LinkedIn: [Nivesh Patel](https://www.linkedin.com/in/niveshpatelx/)
-- Personal Website: [niveshpatel.com](https://niveshpatel.com)
-
--------
-
-## 🌍 Reach me around the web
-
-[<img src="https://img.shields.io/badge/Linkedin-niveshpatelx-%230177B5.svg?&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/niveshpatelx/)
-[<img src="https://img.shields.io/badge/Twitter-Nivesh__Patel-%231DA1F2.svg?&logo=twitter&logoColor=white" />](https://twitter.com/Nivesh_Patel)
-[<img src="https://img.shields.io/badge/Xbox-live-%23107C10.svg?&logo=xbox&logoColor=white" />](https://www.xbox.com)
-
--------
-
-### Thank you for visiting my GitHub profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
