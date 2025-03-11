@@ -42,7 +42,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: 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
-          branch: master
+          branch: main
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
