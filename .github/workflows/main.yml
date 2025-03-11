@@ -25,7 +25,7 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: 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
-          branch: master
+          branch: main
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
