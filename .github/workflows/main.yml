@@ -25,7 +25,7 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: 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
-          branch: master
+          branch: main
           force: true
 
       - name: Deploy to GitHub Pages
@@ -34,4 +34,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: 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
+          GH_PAT: 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
