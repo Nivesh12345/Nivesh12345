@@ -9,8 +9,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # Checkout the repository without caching credentials.
       - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
 
+      # Generate the snake animation files.
       - uses: Platane/snk@v3
         with:
           github_user_name: Nivesh12345
@@ -21,13 +25,22 @@ jobs:
 
       - run: git status
 
+      # Push changes to master using your PAT.
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: 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
-          branch: main
+          github_token: ${{ secrets.PAT_TOKEN }}
+          branch: master
           force: true
 
+      # Configure Git so that all HTTPS GitHub URLs use your PAT.
+      - name: Configure Git to use PAT for authentication
+        run: |
+          git config --global Nivesh12345 "github-actions[bot]"
+          git config --global kumarnivesh964@gmail.com "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global url."https://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@github.com/".insteadOf "https://github.com/"
+
+      # Deploy to GitHub Pages using the configured credentials.
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
