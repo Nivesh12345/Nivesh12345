@@ -24,7 +24,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: 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
+          github_token: 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
           branch: main
           force: true
 
@@ -33,4 +33,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
