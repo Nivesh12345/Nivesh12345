@@ -43,3 +43,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivesh12345&" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nivesh12345&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+![GitHub Snake Animation](https://github.com/Nivesh12345/Nivesh12345/blob/output/github-snake.svg)
+
