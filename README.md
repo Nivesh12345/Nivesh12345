@@ -39,8 +39,8 @@
 <p align="center"><strong>Check out my projects and feel free to collaborate!</strong></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nivesh12345&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivesh12345&" alt="GitHub Streak Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Nivesh12345&show_icons=true&locale=en" alt="GitHub Stats" /> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nivesh12345&" alt="GitHub Streak Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nivesh12345&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 <!-- ![GitHub Snake Animation](https://github.com/Nivesh12345/Nivesh12345/blob/output/github-snake.svg) -->
