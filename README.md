@@ -1,7 +1,7 @@
 <!-- Developer Profile -->
 
 <h1 align="center">Hi 👋, I'm a passionate developer who loves to learn new things</h1>
-<p align="center"><em>A passionate frontend developer</em></p>
+<!-- <p align="center"><em>A passionate frontend developer</em></p> -->
 
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 <p align="center">
