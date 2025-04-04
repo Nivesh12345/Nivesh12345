@@ -28,7 +28,7 @@
 
 <h2 align="center">⚡️ Where to Find Me</h2>
 <p align="center">
-  <a target="_blank" href="[https://www.linkedin.com/in/Nivesh%20Kumar](https://www.linkedin.com/in/nivesh-kumar-30b129288/)">
+  <a target="_blank" href="https://www.linkedin.com/in/nivesh-kumar-30b129288/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a target="_blank" href="https://www.youtube.com/@Coderactive">
