@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="42" height="42" />
   
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"  alt="rust" width="42" height="42"/>
+  <img src="https://www.svgrepo.com/show/374056/rust.svg"  alt="rust" width="52" height="52"/>
 
           
 
